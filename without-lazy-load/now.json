@@ -1,0 +1,6 @@
+{
+  "name": "react-no-lazy-load",
+  "version": 2,
+  "alias": ["reactnolazyload"],
+  "public": true
+}
