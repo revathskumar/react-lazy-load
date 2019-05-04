@@ -1,6 +1,6 @@
 {
-  "name": "react-no-lazy-load",
+  "name": "withoutlazyload",
   "version": 2,
-  "alias": ["reactnolazyload"],
+  "alias": ["withoutlazyload"],
   "public": true
 }
